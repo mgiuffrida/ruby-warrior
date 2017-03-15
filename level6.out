@@ -1,0 +1,267 @@
+Welcome to Ruby Warrior
+Starting Level 6
+- turn 1 -
+ --------
+|C @ S aa|
+ --------
+Initializing with 3 enemies
+@move_direction = forward
+mgiuffrida walks backward
+- turn 2 -
+ --------
+|C@  S aa|
+ --------
+@move_direction = backward
+mgiuffrida unbinds backward and rescues Captive
+Captive released from bonds
+mgiuffrida earns 20 points
+- turn 3 -
+ --------
+| @  S aa|
+ --------
+@move_direction = backward
+mgiuffrida walks backward
+- turn 4 -
+ --------
+|@   S aa|
+ --------
+@move_direction = backward
+mgiuffrida walks forward
+- turn 5 -
+ --------
+| @  S aa|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+- turn 6 -
+ --------
+|  @ S aa|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+- turn 7 -
+ --------
+|   @S aa|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 19 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 17 health power left
+- turn 8 -
+ --------
+|   @S aa|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 14 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 14 health power left
+- turn 9 -
+ --------
+|   @S aa|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 9 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 11 health power left
+- turn 10 -
+ --------
+|   @S aa|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 4 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 8 health power left
+- turn 11 -
+ --------
+|   @S aa|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, -1 health power left
+Thick Sludge dies
+mgiuffrida earns 24 points
+- turn 12 -
+ --------
+|   @  aa|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 24, probable_archer_distance = 
+mgiuffrida walks backward
+Archer shoots and hits nothing
+- turn 13 -
+ --------
+|  @   aa|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 24, probable_archer_distance = 
+mgiuffrida receives 2 health from resting, up to 10 health
+- turn 14 -
+ --------
+|  @   aa|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 24, probable_archer_distance = 
+mgiuffrida receives 2 health from resting, up to 12 health
+- turn 15 -
+ --------
+|  @   aa|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 24, probable_archer_distance = 
+mgiuffrida receives 2 health from resting, up to 14 health
+- turn 16 -
+ --------
+|  @   aa|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+- turn 17 -
+ --------
+|   @  aa|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 11 health power left
+- turn 18 -
+ --------
+|    @ aa|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 8 health power left
+- turn 19 -
+ --------
+|     @aa|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, 2 health power left
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 5 health power left
+- turn 20 -
+ --------
+|     @aa|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, -3 health power left
+Archer dies
+mgiuffrida earns 7 points
+- turn 21 -
+ --------
+|     @ a|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 24, probable_archer_distance = 
+mgiuffrida walks backward
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 2 health power left
+- turn 22 -
+ --------
+|    @  a|
+ --------
+@move_direction = forward
+previous enemy health: 7
+warrior.health: 2
+mgiuffrida walks backward
+Archer shoots and hits nothing
+- turn 23 -
+ --------
+|   @   a|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 7, probable_archer_distance = 3
+mgiuffrida receives 2 health from resting, up to 4 health
+- turn 24 -
+ --------
+|   @   a|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 7, probable_archer_distance = 3
+mgiuffrida receives 2 health from resting, up to 6 health
+- turn 25 -
+ --------
+|   @   a|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 7, probable_archer_distance = 3
+mgiuffrida receives 2 health from resting, up to 8 health
+- turn 26 -
+ --------
+|   @   a|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 7, probable_archer_distance = 3
+mgiuffrida receives 2 health from resting, up to 10 health
+- turn 27 -
+ --------
+|   @   a|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 7, probable_archer_distance = 3
+mgiuffrida receives 2 health from resting, up to 12 health
+- turn 28 -
+ --------
+|   @   a|
+ --------
+@move_direction = forward
+resting: assume_enemy_health = 7, probable_archer_distance = 3
+mgiuffrida receives 2 health from resting, up to 14 health
+- turn 29 -
+ --------
+|   @   a|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+- turn 30 -
+ --------
+|    @  a|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 11 health power left
+- turn 31 -
+ --------
+|     @ a|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 8 health power left
+- turn 32 -
+ --------
+|      @a|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, 2 health power left
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 5 health power left
+- turn 33 -
+ --------
+|      @a|
+ --------
+@move_direction = forward
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, -3 health power left
+Archer dies
+mgiuffrida earns 7 points
+- turn 34 -
+ --------
+|      @>|
+ --------
+@move_direction = forward
+mgiuffrida walks forward
+Success! You have found the stairs.
+Level Score: 58
+Time Bonus: 21
+Clear Bonus: 16
+Total Score: 318 + 95 = 413
+Would you like to continue on to the next level? [yn] See the updated README in the rubywarrior/mgiuffrida-beginner directory.
