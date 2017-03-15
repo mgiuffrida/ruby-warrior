@@ -1,0 +1,144 @@
+Welcome to Ruby Warrior
+Starting Level 5
+- turn 1 -
+ -------
+|@ CaaSC|
+ -------
+Initializing with 3 enemies
+mgiuffrida walks forward
+- turn 2 -
+ -------
+| @CaaSC|
+ -------
+mgiuffrida unbinds forward and rescues Captive
+Captive released from bonds
+mgiuffrida earns 20 points
+- turn 3 -
+ -------
+| @ aaSC|
+ -------
+mgiuffrida walks forward
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 17 health power left
+- turn 4 -
+ -------
+|  @aaSC|
+ -------
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, 2 health power left
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 14 health power left
+- turn 5 -
+ -------
+|  @aaSC|
+ -------
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, -3 health power left
+Archer dies
+mgiuffrida earns 7 points
+- turn 6 -
+ -------
+|  @ aSC|
+ -------
+mgiuffrida walks forward
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 11 health power left
+- turn 7 -
+ -------
+|   @aSC|
+ -------
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, 2 health power left
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 8 health power left
+- turn 8 -
+ -------
+|   @aSC|
+ -------
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, -3 health power left
+Archer dies
+mgiuffrida earns 7 points
+- turn 9 -
+ -------
+|   @ SC|
+ -------
+mgiuffrida receives 2 health from resting, up to 10 health
+- turn 10 -
+ -------
+|   @ SC|
+ -------
+mgiuffrida receives 2 health from resting, up to 12 health
+- turn 11 -
+ -------
+|   @ SC|
+ -------
+mgiuffrida receives 2 health from resting, up to 14 health
+- turn 12 -
+ -------
+|   @ SC|
+ -------
+mgiuffrida walks forward
+- turn 13 -
+ -------
+|    @SC|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 19 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 11 health power left
+- turn 14 -
+ -------
+|    @SC|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 14 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 8 health power left
+- turn 15 -
+ -------
+|    @SC|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 9 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 5 health power left
+- turn 16 -
+ -------
+|    @SC|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 4 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 2 health power left
+- turn 17 -
+ -------
+|    @SC|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, -1 health power left
+Thick Sludge dies
+mgiuffrida earns 24 points
+- turn 18 -
+ -------
+|    @ C|
+ -------
+mgiuffrida walks forward
+- turn 19 -
+ -------
+|     @C|
+ -------
+mgiuffrida unbinds forward and rescues Captive
+Captive released from bonds
+mgiuffrida earns 20 points
+- turn 20 -
+ -------
+|     @>|
+ -------
+mgiuffrida walks forward
+Success! You have found the stairs.
+Level Score: 78
+Time Bonus: 25
+Clear Bonus: 21
+Total Score: 194 + 124 = 318
+Would you like to continue on to the next level? [yn] See the updated README in the rubywarrior/mgiuffrida-beginner directory.
