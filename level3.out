@@ -1,0 +1,174 @@
+Welcome to Ruby Warrior
+Starting Level 3
+- turn 1 -
+ ---------
+|@ s ss s>|
+ ---------
+mgiuffrida walks forward
+- turn 2 -
+ ---------
+| @s ss s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 17 health power left
+- turn 3 -
+ ---------
+| @s ss s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 14 health power left
+- turn 4 -
+ ---------
+| @s ss s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+mgiuffrida earns 12 points
+- turn 5 -
+ ---------
+| @  ss s>|
+ ---------
+mgiuffrida walks forward
+- turn 6 -
+ ---------
+|  @ ss s>|
+ ---------
+mgiuffrida walks forward
+- turn 7 -
+ ---------
+|   @ss s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 11 health power left
+- turn 8 -
+ ---------
+|   @ss s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 8 health power left
+- turn 9 -
+ ---------
+|   @ss s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+mgiuffrida earns 12 points
+- turn 10 -
+ ---------
+|   @ s s>|
+ ---------
+mgiuffrida walks forward
+- turn 11 -
+ ---------
+|    @s s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 5 health power left
+- turn 12 -
+ ---------
+|    @s s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 2 health power left
+- turn 13 -
+ ---------
+|    @s s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+mgiuffrida earns 12 points
+- turn 14 -
+ ---------
+|    @  s>|
+ ---------
+mgiuffrida receives 2 health from resting, up to 4 health
+- turn 15 -
+ ---------
+|    @  s>|
+ ---------
+mgiuffrida receives 2 health from resting, up to 6 health
+- turn 16 -
+ ---------
+|    @  s>|
+ ---------
+mgiuffrida receives 2 health from resting, up to 8 health
+- turn 17 -
+ ---------
+|    @  s>|
+ ---------
+mgiuffrida walks forward
+- turn 18 -
+ ---------
+|     @ s>|
+ ---------
+mgiuffrida walks forward
+- turn 19 -
+ ---------
+|      @s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 5 health power left
+- turn 20 -
+ ---------
+|      @s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 2 health power left
+- turn 21 -
+ ---------
+|      @s>|
+ ---------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+mgiuffrida earns 12 points
+- turn 22 -
+ ---------
+|      @ >|
+ ---------
+mgiuffrida receives 2 health from resting, up to 4 health
+- turn 23 -
+ ---------
+|      @ >|
+ ---------
+mgiuffrida receives 2 health from resting, up to 6 health
+- turn 24 -
+ ---------
+|      @ >|
+ ---------
+mgiuffrida receives 2 health from resting, up to 8 health
+- turn 25 -
+ ---------
+|      @ >|
+ ---------
+mgiuffrida walks forward
+- turn 26 -
+ ---------
+|       @>|
+ ---------
+mgiuffrida walks forward
+Success! You have found the stairs.
+Level Score: 48
+Time Bonus: 9
+Clear Bonus: 11
+Total Score: 36 + 68 = 104
+Would you like to continue on to the next level? [yn] See the updated README in the rubywarrior/mgiuffrida-beginner directory.
