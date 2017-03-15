@@ -1,0 +1,174 @@
+Welcome to Ruby Warrior
+Starting Level 4
+- turn 1 -
+ -------
+|@ Sa S>|
+ -------
+Initializing with 3 enemies
+mgiuffrida walks forward
+- turn 2 -
+ -------
+| @Sa S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 19 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 17 health power left
+- turn 3 -
+ -------
+| @Sa S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 14 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 14 health power left
+- turn 4 -
+ -------
+| @Sa S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 9 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 11 health power left
+- turn 5 -
+ -------
+| @Sa S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 4 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 8 health power left
+- turn 6 -
+ -------
+| @Sa S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, -1 health power left
+Thick Sludge dies
+mgiuffrida earns 24 points
+- turn 7 -
+ -------
+| @ a S>|
+ -------
+mgiuffrida receives 2 health from resting, up to 10 health
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 7 health power left
+- turn 8 -
+ -------
+| @ a S>|
+ -------
+mgiuffrida walks forward
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 4 health power left
+- turn 9 -
+ -------
+|  @a S>|
+ -------
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, 2 health power left
+Archer shoots forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 1 health power left
+- turn 10 -
+ -------
+|  @a S>|
+ -------
+mgiuffrida attacks forward and hits Archer
+Archer takes 5 damage, -3 health power left
+Archer dies
+mgiuffrida earns 7 points
+- turn 11 -
+ -------
+|  @  S>|
+ -------
+mgiuffrida receives 2 health from resting, up to 3 health
+- turn 12 -
+ -------
+|  @  S>|
+ -------
+mgiuffrida receives 2 health from resting, up to 5 health
+- turn 13 -
+ -------
+|  @  S>|
+ -------
+mgiuffrida receives 2 health from resting, up to 7 health
+- turn 14 -
+ -------
+|  @  S>|
+ -------
+mgiuffrida receives 2 health from resting, up to 9 health
+- turn 15 -
+ -------
+|  @  S>|
+ -------
+mgiuffrida receives 2 health from resting, up to 11 health
+- turn 16 -
+ -------
+|  @  S>|
+ -------
+mgiuffrida receives 2 health from resting, up to 13 health
+- turn 17 -
+ -------
+|  @  S>|
+ -------
+mgiuffrida walks forward
+- turn 18 -
+ -------
+|   @ S>|
+ -------
+mgiuffrida walks forward
+- turn 19 -
+ -------
+|    @S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 19 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 10 health power left
+- turn 20 -
+ -------
+|    @S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 14 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 7 health power left
+- turn 21 -
+ -------
+|    @S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 9 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 4 health power left
+- turn 22 -
+ -------
+|    @S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 4 health power left
+Thick Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 1 health power left
+- turn 23 -
+ -------
+|    @S>|
+ -------
+mgiuffrida attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, -1 health power left
+Thick Sludge dies
+mgiuffrida earns 24 points
+- turn 24 -
+ -------
+|    @ >|
+ -------
+mgiuffrida walks forward
+- turn 25 -
+ -------
+|     @>|
+ -------
+mgiuffrida walks forward
+Success! You have found the stairs.
+Level Score: 55
+Time Bonus: 20
+Clear Bonus: 15
+Total Score: 104 + 90 = 194
+Would you like to continue on to the next level? [yn] See the updated README in the rubywarrior/mgiuffrida-beginner directory.
