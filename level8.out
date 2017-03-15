@@ -1,0 +1,59 @@
+Welcome to Ruby Warrior
+Starting Level 8
+- turn 1 -
+ ------
+|@ Cww>|
+ ------
+Initializing with 2 enemies
+mgiuffrida shoots forward and hits Captive
+Captive released from bonds
+Captive takes 3 damage, -2 health power left
+Captive dies
+mgiuffrida earns 1 points
+- turn 2 -
+ ------
+|@  ww>|
+ ------
+mgiuffrida shoots forward and hits Wizard
+Wizard takes 3 damage, 0 health power left
+Wizard dies
+mgiuffrida earns 3 points
+- turn 3 -
+ ------
+|@   w>|
+ ------
+mgiuffrida walks forward
+- turn 4 -
+ ------
+| @  w>|
+ ------
+mgiuffrida shoots forward and hits Wizard
+Wizard takes 3 damage, 0 health power left
+Wizard dies
+mgiuffrida earns 3 points
+- turn 5 -
+ ------
+| @   >|
+ ------
+mgiuffrida walks forward
+- turn 6 -
+ ------
+|  @  >|
+ ------
+mgiuffrida walks forward
+- turn 7 -
+ ------
+|   @ >|
+ ------
+mgiuffrida walks forward
+- turn 8 -
+ ------
+|    @>|
+ ------
+mgiuffrida walks forward
+Success! You have found the stairs.
+Level Score: 7
+Time Bonus: 12
+Clear Bonus: 4
+Total Score: 465 + 23 = 488
+Would you like to continue on to the next level? [yn] See the updated README in the rubywarrior/mgiuffrida-beginner directory.
