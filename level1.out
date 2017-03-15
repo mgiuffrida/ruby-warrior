@@ -1,0 +1,43 @@
+Welcome to Ruby Warrior
+Starting Level 1
+- turn 1 -
+ --------
+|@      >|
+ --------
+mgiuffrida walks forward
+- turn 2 -
+ --------
+| @     >|
+ --------
+mgiuffrida walks forward
+- turn 3 -
+ --------
+|  @    >|
+ --------
+mgiuffrida walks forward
+- turn 4 -
+ --------
+|   @   >|
+ --------
+mgiuffrida walks forward
+- turn 5 -
+ --------
+|    @  >|
+ --------
+mgiuffrida walks forward
+- turn 6 -
+ --------
+|     @ >|
+ --------
+mgiuffrida walks forward
+- turn 7 -
+ --------
+|      @>|
+ --------
+mgiuffrida walks forward
+Success! You have found the stairs.
+Level Score: 0
+Time Bonus: 8
+Clear Bonus: 2
+Total Score: 10
+Would you like to continue on to the next level? [yn] See the updated README in the rubywarrior/mgiuffrida-beginner directory.
