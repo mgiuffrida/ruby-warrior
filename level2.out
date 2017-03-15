@@ -1,0 +1,67 @@
+Welcome to Ruby Warrior
+Starting Level 2
+- turn 1 -
+ --------
+|@   s  >|
+ --------
+mgiuffrida walks forward
+- turn 2 -
+ --------
+| @  s  >|
+ --------
+mgiuffrida walks forward
+- turn 3 -
+ --------
+|  @ s  >|
+ --------
+mgiuffrida walks forward
+- turn 4 -
+ --------
+|   @s  >|
+ --------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 17 health power left
+- turn 5 -
+ --------
+|   @s  >|
+ --------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits mgiuffrida
+mgiuffrida takes 3 damage, 14 health power left
+- turn 6 -
+ --------
+|   @s  >|
+ --------
+mgiuffrida attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+mgiuffrida earns 12 points
+- turn 7 -
+ --------
+|   @   >|
+ --------
+mgiuffrida walks forward
+- turn 8 -
+ --------
+|    @  >|
+ --------
+mgiuffrida walks forward
+- turn 9 -
+ --------
+|     @ >|
+ --------
+mgiuffrida walks forward
+- turn 10 -
+ --------
+|      @>|
+ --------
+mgiuffrida walks forward
+Success! You have found the stairs.
+Level Score: 12
+Time Bonus: 10
+Clear Bonus: 4
+Total Score: 10 + 26 = 36
+Would you like to continue on to the next level? [yn] See the updated README in the rubywarrior/mgiuffrida-beginner directory.
